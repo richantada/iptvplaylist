@@ -1,0 +1,383 @@
+#EXTM3U Albdroid TV
+#EXTINF:-1 tvg-ID="" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/Logo_Antv_2003-2006.svg/1280px-Logo_Antv_2003-2006.svg.png" group-title="Lokal",ANTV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/607.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="Lokal",Trans TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/612.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trans 7" tvg-logo="https://macan.live/img/trans7.png" group-title="Lokal",Trans 7
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/611.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="Lokal",SCTV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/608.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="Lokal",RTV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/614.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RCTI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/RCTI.svg/1280px-RCTI.svg.png" group-title="Lokal",RCTI HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/604.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RRI Net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/RRI_NET.png" group-title="Lokal",RRI Net
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/676.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NET. HD" tvg-logo="https://sianpudian.files.wordpress.com/2015/05/logo1.png" group-title="Lokal",NET. HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/610.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MNC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/269px-MNCTV_MNC-Group.svg.png" group-title="Lokal",MNC TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/605.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Indosiar" tvg-logo="http://3.bp.blogspot.com/-7YXQ-3nwJKM/UhwyURu_ICI/AAAAAAAAA-s/KvXP4ekaRNw/s1600/INDOSIAR_Logo.png" group-title="Lokal",Indosiar
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/609.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d4/Kompas_TV.svg/1280px-Kompas_TV.svg.png" group-title="Lokal",Kompas TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/615.ts
+#EXTINF:-1 tvg-ID="" tvg-name="iNews" tvg-logo="https://3.bp.blogspot.com/-mvt5e30H3f4/VzsXopQlQPI/AAAAAAAACYo/9fqMgyOJ15c2c9piqgYJ3vOoaTxWK_t-wCLcB/s1600/INews_TV.png" group-title="Lokal",iNews
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/522.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/2000px-LogoMetroTVsince2010.svg.png" group-title="Lokal",Metro TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/523.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV ONE" tvg-logo="http://2.bp.blogspot.com/-8uYxdlVvpd4/T9lqRz0Us7I/AAAAAAAAAcM/NXcsS2CnEP0/s1600/TvOne_logo_(2010).png" group-title="Lokal",TV ONE
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/613.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="Lokal",GTV HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/606.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MyTV HD" tvg-logo="" group-title="Lokal",MyTV HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/544.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/72/TVRI_logo_%282019%29.svg/1024px-TVRI_logo_%282019%29.svg.png" group-title="Lokal",TVRI
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/619.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVKU" tvg-logo="" group-title="Lokal",TVKU
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/965.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MGS TV" tvg-logo="" group-title="Lokal",MGS TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/963.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SBC TV" tvg-logo="" group-title="Lokal",SBC TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/964.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Edukasi" tvg-logo="" group-title="Science",TV Edukasi
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/959.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Batam TV" tvg-logo="" group-title="Lokal",Batam TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/962.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bandung TV" tvg-logo="" group-title="Lokal",Bandung TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/958.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Jak TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b4/Logo_Jak_tv_%282005-2009%29.png" group-title="Lokal",Jak TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/616.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Jawa Pos TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3b/Logo_Jawapos_TV.png" group-title="Lokal",Jawa Pos TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/617.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Empire Movies 1 (Trial)" tvg-logo="" group-title="Empire Group",Empire Movies 1 (Trial)
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/945.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Empire Live Event (Trial)" tvg-logo="https://i.imgur.com/pImOTXF.jpg" group-title="Empire Group",Empire Live Event (Trial)
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/946.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Empire Sport (Trial)" tvg-logo="" group-title="Empire Group",Empire Sport (Trial)
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/960.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="Sport",NBA HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/507.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/800px-TVRILogo2019.svg.png" group-title="Sport",TVRI Sport
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/510.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fight Sports HD" tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sport",Fight Sports HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/512.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Red Bull TV" tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png" group-title="Sport",Red Bull TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/509.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTM Sport" tvg-logo="" group-title="Sport",RTM Sport
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/957.ts
+#EXTINF:-1 tvg-ID="" tvg-name="eGG Network" tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="Sport",eGG Network
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/508.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Golf Life FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Logo_Golf_Channel_2014.png" group-title="Sport",Golf Life FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/511.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Usee Sport 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="Sport",Usee Sport 1
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/502.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Usee Sport 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Sport",Usee Sport 2
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/503.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Champion TV 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Sport",Champion TV 1
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/504.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Champion TV 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Sport",Champion TV 2
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/505.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Champion TV 3" tvg-logo="" group-title="Sport",Champion TV 3
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/935.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 1" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/B1E/bein-sports-1-hero.png" group-title="Sport",Bein Sports 1
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/515.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 2" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/B2E/bein-sports-2-hero.png" group-title="Sport",Bein Sports 2
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/516.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 1 HD" tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg" group-title="Sport",FOX Sports 1 HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/620.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 2 HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/5/5c/Fox_Sports_2_HD_logo.png/revision/latest?cb=20160425194254" group-title="Sport",FOX Sports 2 HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/517.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 3 HD" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png" group-title="Sport",FOX Sports 3 HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/518.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AF Supersport 1 FHD" tvg-logo="https://www.screenafrica.com/wp-content/uploads/2017/12/3-Supersport.jpg" group-title="Sport",AF Supersport 1 FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/882.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AF Supersport 2 FHD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS2-card@2x.png" group-title="Sport",AF Supersport 2 FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/883.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AF Supersport 3 FHD" tvg-logo="https://1.bp.blogspot.com/-9TDAtK29cKA/TZxu_IWNR0I/AAAAAAAAJ7M/GCWUEt2kSSA/s1600/SuperSport+HD+3+logo.png" group-title="Sport",AF Supersport 3 FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/884.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AF Supersport 4 FHD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS4-card@2x.png" group-title="Sport",AF Supersport 4 FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/885.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AF Supersport 5 FHD" tvg-logo="https://thedailymail.co.ke/wp-content/uploads/2019/07/super-sport-696x391.jpg" group-title="Sport",AF Supersport 5 FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/886.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AF Supersport 6 FHD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/supersport-logo-png-2.png" group-title="Sport",AF Supersport 6 FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/887.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AF Supersport 7 FHD" tvg-logo="https://2.bp.blogspot.com/-e1Dk7jh0aWk/WaGhRSIH9xI/AAAAAAAAEaE/lE7FwwXYV3Yr4E56AeSOXpv_7bBkVKwRACLcBGAs/s1600/SuperSport%2B7%2BHD%2BSS7%2BHD%2BDStv%2B%25281%2529.png" group-title="Sport",AF Supersport 7 FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/888.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AF Supersport 8 FHD" tvg-logo="" group-title="Sport",AF Supersport 8 FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/889.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AF Supersport 9 FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/05/SS9.png/revision/latest/scale-to-width-down/340?cb=20190501153256" group-title="Sport",AF Supersport 9 FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/890.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AF Supersport 10 FHD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS10-card@2x.png" group-title="Sport",AF Supersport 10 FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/891.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AF Supersport 11 FHD" tvg-logo="" group-title="Sport",AF Supersport 11 FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/892.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AF Supersport 12 FHD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS12-card@2x.png" group-title="Sport",AF Supersport 12 FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/893.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO FHD" tvg-logo="http://www.hbosouthasia.com/assets/img/core/hbo-hd-logo-3d.png" group-title="Movies",HBO FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/847.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Hits FHD" tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="Movies",HBO Hits FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/849.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Family FHD" tvg-logo="https://static.iptv-epg.com/id/HBOFamily.id.png" group-title="Movies",HBO Family FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/848.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Signature FHD" tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Movies",HBO Signature FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/850.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Red By HBO" tvg-logo="https://macan.live/img/red_hbo.png" group-title="Movies",Red By HBO
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/689.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/852.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO HD" tvg-logo="http://www.hbosouthasia.com/assets/img/core/hbo-hd-logo-3d.png" group-title="Movies",HBO HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/576.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Hits HD" tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="Movies",HBO Hits HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/578.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Family HD" tvg-logo="https://static.iptv-epg.com/id/HBOFamily.id.png" group-title="Movies",HBO Family HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/661.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Signature HD" tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Movies",HBO Signature HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/577.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Red By HBO HD" tvg-logo="" group-title="Movies",Red By HBO HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/854.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/589.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Family Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b5/Fox_Family_Movies_Logo.svg.png" group-title="Movies",FOX Family Movies HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/584.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Action Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/80/FOX_Action_Movies_%282017%29.png" group-title="Movies",FOX Action Movies HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/586.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Movies Premium HD" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023561831/FOX_Movies_HD.png" group-title="Movies",FOX Movies Premium HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/585.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN HD" tvg-logo="https://cb.dstream.xyz/tvchannel/axn.png" group-title="Movies",AXN HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/855.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FX HD" tvg-logo="https://macan.live/img/fx.png" group-title="Movies",FX HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/580.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Life HD" tvg-logo="https://macan.live/img/fox_life.png" group-title="Movies",FOX Life HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/583.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Crime HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="Movies",FOX Crime HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/582.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png" group-title="Movies",FOX Channel HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/581.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Blue Ant Extreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Movies",Blue Ant Extreme HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/587.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Blue Ant Entertain HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Movies",Blue Ant Entertain HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/588.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HITS HD" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="Movies",HITS HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/574.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HITS Movies" tvg-logo="https://zaltvku.com/file/img/hits-movies-logo.png" group-title="Movies",HITS Movies
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/575.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="Movies",KIX HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/594.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Thrill HD" tvg-logo="https://i.imgur.com/WzyIoRc.png" group-title="Movies",Thrill HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/595.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CCM HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="Mandarin",CCM HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/682.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SCM FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_18.jpg" group-title="Mandarin",SCM FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/590.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Xing Kong" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/821-xingkong.png" group-title="Mandarin",Xing Kong
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/807.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Celestial Movie HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/309_300.png" group-title="Mandarin",Celestial Movie HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/592.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Chinese Drama" tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png?v=2.0.0.13" group-title="Mandarin",Chinese Drama
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/603.ts
+#EXTINF:-1 tvg-ID="" tvg-name="WarnerTV HD" tvg-logo="https://mncvision.id/userfiles/image/channel/warner_tv.png" group-title="Movies",WarnerTV HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/593.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemaworld HD" tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="Movies",Cinemaworld HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/597.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IMC" tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies",IMC
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/598.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Flik HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ9ZVO5t5Qc2gEfedwp7z2MTlxvvxaEp2LxkfH7ZMh4UW6IBamd" group-title="Movies",Flik HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/600.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Galaxy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Galaxy_TV.png" group-title="Movies",Galaxy
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/601.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bioskop Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Movies",Bioskop Indonesia
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/599.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Zing HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png" group-title="Movies",Zing HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/735.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Zee Bioskop HD" tvg-logo="https://zeelwebsite.s3.amazonaws.com/Zee%20Bioskop%20new%20logo%20About%20us%20-%20Copy.png" group-title="Movies",Zee Bioskop HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/733.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AniPlus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png" group-title="Kids",AniPlus HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/563.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Animax HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/a/a3/Animax-logo1.png/revision/latest?cb=20110927162919" group-title="Kids",Animax HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/564.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/566.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Horee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Horee
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/565.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network" tvg-logo="https://www.pngarts.com/files/2/Cartoon-Network-PNG-High-Quality-Image.png" group-title="Kids",Cartoon Network
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/568.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids",Disney Junior
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/570.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel" tvg-logo="https://assets.games.corusent.com/wp-content/uploads/2019/07/31093551/7d5a5ef3-9971-4ecc-8a65-0bc6333fce78.png" group-title="Kids",Disney Channel
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/571.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DA Vinci" tvg-logo="http://4.bp.blogspot.com/-1e_UKaQ-ABo/T0ye5DJdeGI/AAAAAAAAAf8/qN6wS5HOVJs/s1600/da_vinci_learning.png" group-title="Kids",DA Vinci
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/569.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DreamWorks" tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png?w=471&h=265" group-title="Kids",DreamWorks
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/572.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nicklodeon" tvg-logo="" group-title="Kids",Nicklodeon
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/567.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nick JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Kids",Nick JR
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/573.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Space Toon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Kids",Space Toon
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/562.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZooMoo HD" tvg-logo="https://images.squarespace-cdn.com/content/5313acf2e4b0ff95a87283a8/1575342477559-XKHTVQD59I8XDQD71U3A/NEW+ZOOMOO+LOGO.png?content-type=image%2Fpng" group-title="Kids",ZooMoo HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/561.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tom & Jerry 24H" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjMXQ2d2qv8-AWoxKOWboph0KAwgc6qJ7DWL1AZf6w0mCMqIl1" group-title="Kids",Tom & Jerry 24H
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/895.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Larva 24H" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSn99xMsFA0pQ-0_Gc4ltchIQJIpV8q1Nz7DBWvowR06B_m0Vbz" group-title="Kids",Larva 24H
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/894.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rusia Today" tvg-logo="https://www.thewrap.com/wp-content/uploads/2014/03/russiatoday.jpg" group-title="News",Rusia Today
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/527.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV 4 HD" tvg-logo="" group-title="News",CCTV 4 HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/526.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bloomberg" tvg-logo="" group-title="News",Bloomberg
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/966.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NHK World HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51T6LAzxMWL.png" group-title="News",NHK World HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/748.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Euro News" tvg-logo="https://unicpress.com/wp-content/uploads/2014/03/photo1.png" group-title="News",Euro News
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/534.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Jakarta Globe News" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/15/Jakarta_Globe.png" group-title="News",Jakarta Globe News
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/739.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IDX Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cb/IDX_Channel.png" group-title="News",IDX Channel
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/738.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Al-Jazeera HD" tvg-logo="https://www.aljazeera.com/assets/images/AljazeeraLogo.png" group-title="News",Al-Jazeera HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/524.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Berita Satu World" tvg-logo="https://www.firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="News",Berita Satu World
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/741.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Berita Satu" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="News",Berita Satu
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/740.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNA News" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1554165536_channel-news-asia.png" group-title="News",CNA News
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/531.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNBC Indonesia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="News",CNBC Indonesia HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/521.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNN Indonesia HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/cnn-indonesia-logo-png-2.png" group-title="News",CNN Indonesia HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/520.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV5 Monde" tvg-logo="https://www.userlogos.org/files/logos/1air2philou/TV5Monde-topview.png" group-title="News",TV5 Monde
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/532.ts
+#EXTINF:-1 tvg-ID="" tvg-name="France 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="News",France 24 HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/528.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1024px-BBC_World_News_red.svg.png" group-title="News",BBC World News
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/530.ts
+#EXTINF:-1 tvg-ID="" tvg-name="T Music" tvg-logo="" group-title="Music",T Music
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/500.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Channel V" tvg-logo="" group-title="Music",Channel V
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/498.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Live" tvg-logo="" group-title="Music",MTV Live
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/501.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Prambors TV" tvg-logo="" group-title="Music",Prambors TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/499.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lapak Musik TV" tvg-logo="https://cb.dstream.xyz/tvchannel/lapak_musik.png" group-title="Music",Lapak Musik TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/949.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Mix Music" tvg-logo="" group-title="Music",Mix Music
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/677.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Citra Dangdut" tvg-logo="https://cb.dstream.xyz/tvchannel/citra_dangdut.png" group-title="Music",Citra Dangdut
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/709.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Karaoke Channel" tvg-logo="" group-title="Music",Karaoke Channel
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/678.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Citra Drama" tvg-logo="https://cb.dstream.xyz/tvchannel/citra_drama.png" group-title="Entertainment",Citra Drama
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/551.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Hi Indo" tvg-logo="" group-title="Mandarin",Hi Indo
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/602.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Usee Prime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13" group-title="Entertainment",Usee Prime
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/555.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Usee Photo" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="Entertainment",Usee Photo
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/554.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ruang Terampil" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="Entertainment",Ruang Terampil
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/557.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ID KU" tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png?v=2.0.0.14" group-title="Entertainment",ID KU
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/556.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DAAI TV" tvg-logo="" group-title="Entertainment",DAAI TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/560.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dunia Lain" tvg-logo="" group-title="Entertainment",Dunia Lain
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/547.ts
+#EXTINF:-1 tvg-ID="" tvg-name="O Channel HD" tvg-logo="" group-title="Entertainment",O Channel HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/559.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sinema Indonesia" tvg-logo="" group-title="Entertainment",Sinema Indonesia
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/545.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Home Links" tvg-logo="" group-title="Entertainment",Home Links
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/558.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony GEM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg" group-title="Korea",Sony GEM HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/536.ts
+#EXTINF:-1 tvg-ID="" tvg-name="K+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="Korea",K+ HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/543.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arirang HD" tvg-logo="https://www.freeetv.com/images/reydddd/arirang.png" group-title="Korea",Arirang HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/542.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony ONE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/Sony_One.png" group-title="Korea",Sony ONE HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/537.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KBS World" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/875-kbs-hd.png" group-title="Korea",KBS World
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/541.ts
+#EXTINF:-1 tvg-ID="" tvg-name="K Drama" tvg-logo="http://lh3.googleusercontent.com/nrTQdV2quKqeA09ZOTHQizEo9uSQHMIL02wd-CmZ7b9T08QcpA4LsGy7DukBfpP-5A=w340" group-title="Korea",K Drama
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Waku-Waku Japan HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Korea",Waku-Waku Japan HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/540.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="Korea",TVN
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/538.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVN Movies" tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/IndiKorea/tvNmovie.png" group-title="Korea",TVN Movies
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/539.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Makkah Live" tvg-logo="" group-title="Religi",Makkah Live
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/491.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Madinah Live" tvg-logo="" group-title="Religi",Madinah Live
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/492.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Al Bahjah TV" tvg-logo="" group-title="Religi",Al Bahjah TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/930.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ahsan TV" tvg-logo="https://cb.dstream.xyz/tvchannel/ahsantv.jpg" group-title="Religi",Ahsan TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/915.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV9 NU" tvg-logo="" group-title="Religi",TV9 NU
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/495.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tawaf TV" tvg-logo="" group-title="Religi",Tawaf TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/673.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Khazanah" tvg-logo="" group-title="Religi",Khazanah
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/674.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Salam TV" tvg-logo="" group-title="Religi",Salam TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/493.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nabawi TV" tvg-logo="" group-title="Religi",Nabawi TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/812.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rodja TV" tvg-logo="" group-title="Religi",Rodja TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/497.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Reformed 21 (Kristen)" tvg-logo="" group-title="Religi",Reformed 21 (Kristen)
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/814.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DW TV" tvg-logo="" group-title="Science",DW TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/479.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet HD" tvg-logo="" group-title="Science",Animal Planet HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/480.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NatGeo Wild HD" tvg-logo="" group-title="Science",NatGeo Wild HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/488.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NatGeo Wild SD" tvg-logo="" group-title="Science",NatGeo Wild SD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/881.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NatGeo Channel HD" tvg-logo="" group-title="Science",NatGeo Channel HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/487.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NatGeo Channel SD" tvg-logo="" group-title="Science",NatGeo Channel SD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/880.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NatGeo People HD" tvg-logo="" group-title="Science",NatGeo People HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/489.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Love Nature 4K" tvg-logo="" group-title="Science",Love Nature 4K
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/473.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC Earth" tvg-logo="" group-title="Science",BBC Earth
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/485.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Outdoor Channel" tvg-logo="" group-title="Science",Outdoor Channel
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/490.ts
+#EXTINF:-1 tvg-ID="" tvg-name="History HD" tvg-logo="" group-title="Science",History HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/484.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Turbo" tvg-logo="https://cb.dstream.xyz/tvchannel/DiscoveryTurbo.png" group-title="Science",Discovery Turbo
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/760.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Asia FHD" tvg-logo="https://cb.dstream.xyz/tvchannel/discoveryasia.png" group-title="Science",Discovery Asia FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/486.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel FHD" tvg-logo="https://cb.dstream.xyz/tvchannel/discoverychannel.png" group-title="Science",Discovery Channel FHD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/759.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Crime Investigation" tvg-logo="" group-title="Science",Crime Investigation
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/482.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CGTN" tvg-logo="" group-title="Mandarin",CGTN
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/481.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Smith Sonian HD" tvg-logo="" group-title="Science",Smith Sonian HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/483.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eat & Go" tvg-logo="" group-title="Food & LifeStyle",Eat & Go
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/548.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Asian Food Network" tvg-logo="" group-title="Food & LifeStyle",Asian Food Network
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/477.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HGTV HD" tvg-logo="" group-title="Food & LifeStyle",HGTV HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/476.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TLC HD" tvg-logo="" group-title="Food & LifeStyle",TLC HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/475.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Life Time HD" tvg-logo="" group-title="Food & LifeStyle",Life Time HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/472.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fashion TV" tvg-logo="" group-title="Food & LifeStyle",Fashion TV
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/550.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fashion One" tvg-logo="" group-title="Food & LifeStyle",Fashion One
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/549.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC LifeStyle HD" tvg-logo="" group-title="Food & LifeStyle",BBC LifeStyle HD
+http://streamku.live:8888/live/freepremium/gakusahdicolongbro/474.ts
